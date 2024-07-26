@@ -1,5 +1,5 @@
 {
-  "name":"FLASH-MD",
+  "name":"SILENT",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":[
     "bot",
@@ -16,7 +16,7 @@
         "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":",",
       "required":true
     },
     "AUTO_READ_MESSAGES":
